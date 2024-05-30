@@ -1,49 +1,77 @@
 html {
-  height: 100%;
-  width: 100%;
+    height: 100%;
+    width: 100%;
 }
+
 html {
-  height: 100%;
-  width: 100%;
+    height: 100%;
+    width: 100%;
 }
 
 h1 {
     text-align: center;
 }
+
 h1 {
     text-align: center;
-    font-family: Arial, sans-serif;
+    font-family: American Typewriter, serif
 }
+
 h1 {
-    text-align: center;
-    font-family: Arial, sans-serif;
     color: #263e0f;
-    background-color: #cdeccd;
+    background-color: #b1dd8c;
+    
 }
+h2 {
+    color: #cce8b5;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #263e0f;
+}
+p {
+    color: #263e0f;
+}
+
 a {
     font-family: Arial, sans-serif;
 }
 a {
-    font-family: Arial, sans-serif;
+    color: #263e0f;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #38571a;
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Gill Sans, sans-serif
 }
 
 ul {
     font-family: Arial, sans-serif;
 }
+
 a {
     font-family: Arial, sans-serif;
-    background-color: #cdeccd; /* Light Green Background */
+    background-color: #cce8b5;
+    /* Light Green Background */
 }
+
 a {
     font-size: 20px;
 }
+    /* Outline all text with white */
+    
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
+
+    body {
+        background-image: url("https://shoplohome.com/cdn/shop/products/stripe_wallpaper_shopify_light_green_1024x1024.jpg?v=1561667336");
+        
+        background-position: center;
+        background-size: cover;
+    }
+    body {
+        background-color: #e0edd4;
+    }
